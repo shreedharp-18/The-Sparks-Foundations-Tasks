@@ -39,9 +39,11 @@ _Please click on the images on right side to view my solution._
 ### # Task-3 : Exploratory Data Analysis - Retail (Level - Beginner)
 _Please click on the images on right side to view my solution._
 
-1. For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
-1. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
-1. Data can be found at [https://bit.ly/3kXTdox](https://bit.ly/3kXTdox)
+1. Perform 'Exploratory Data Analysis' on dataset 'SampleSuperstore'.
+1. As a Business Manager, try to find out the weak areas where you can work to make more profit.
+1. What all business problems you can derive by exploring the data?
+1. You can choose any of the tool of your choice(Python/R/Tableau/Power BI/Excel/SAS/SAP).
+1. Data can be found at [https://bit.ly/3i4rbWl](https://bit.ly/3i4rbWl)
 
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>]()
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>]()
